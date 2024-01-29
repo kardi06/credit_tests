@@ -18,6 +18,11 @@
         "vue": "^3.4.0"
     },
     "dependencies": {
-        "@inertiajs/vue3": "^1.0.14"
+        "@inertiajs/vue3": "^1.0.14",
+        "vue-cleave-component": "^3.0.2",
+        "vue-cleave-directive": "^1.0.3",
+        "vue-currency-input": "^3.0.5",
+        "vue3-currency-input": "^0.1.0",
+        "vue3-datepicker": "^0.4.0"
     }
 }
